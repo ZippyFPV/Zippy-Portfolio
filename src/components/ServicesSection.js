@@ -45,7 +45,10 @@ const ServicesSection = () => {
         </div>
       </div>
       <div className="image">
-        <img src="{home2}" alt="" />
+        <img
+          src={home2}
+          alt="photo of thing to describe services or more about me."
+        />
       </div>
     </div>
   );
